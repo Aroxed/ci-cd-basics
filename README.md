@@ -16,7 +16,7 @@ A simple Python calculator that provides basic arithmetic operations (addition a
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aroxed/ci-cd-basics
 cd <repository-name>
 ```
 
