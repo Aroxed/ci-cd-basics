@@ -24,7 +24,7 @@ jobs:
         
     - name: Run tests with coverage
       run: |
-        pytest calculator.py --cov=calculator --cov-report=xml
+        pytest test_calculator.py --cov=calculator --cov-report=xml
         
     - name: Run linting
       run: |
